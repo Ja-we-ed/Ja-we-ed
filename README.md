@@ -7,7 +7,7 @@
 
 ## What I do
 
-**Building with AI.** I run a team of AI agents and develop with Cursor and similar tools. That covers prompt engineering, AI for research, and AI-assisted game modding. I am learning machine learning.
+**Building with AI.** I build with AI tools like Cursor every day, from coordinating multiple AI agents on real tasks to prompt engineering, AI-assisted research, and AI-assisted game modding. I'm learning machine learning.
 
 **Python and C.** These are the languages I know best. I am also comfortable with React, TypeScript, Vite, Tailwind CSS, Framer Motion, Git, and Linux.
 
@@ -22,14 +22,10 @@
 ## Currently
 
 - **Learning** Introduction to Programming and Data Structures (Fall 2026), and machine learning
-- **Building** a personal portfolio with React, Vite, TypeScript, Tailwind CSS, and Framer Motion — [jaweed-portfolio](https://github.com/Ja-we-ed/jaweed-portfolio)
 
-## GitHub
+## Featured project
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ja-we-ed&show_icons=true&hide_border=true&hide_rank=true&bg_color=0b1220&title_color=22d3ee&icon_color=22d3ee&text_color=e2e8f0&ring_color=22d3ee&border_radius=16" alt="Jaweed's GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ja-we-ed&layout=compact&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=e2e8f0&border_radius=16&langs_count=6" alt="Jaweed's most used languages on GitHub" />
-</div>
+[jaweed-portfolio](https://github.com/Ja-we-ed/jaweed-portfolio) — React + Vite + TypeScript portfolio with glass UI, scroll-linked motion, and an infinite project reel.
 
 <div align="center">
   <p>Open to freelance work and internships.</p>
